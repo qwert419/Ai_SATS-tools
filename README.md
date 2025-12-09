@@ -37,7 +37,7 @@
 3. 确保网络连接正常
 
 ### 2. 运行工具
-1. 运行命令：`cxjar.exe java -jar Ai-SAST-tool.xjar`
+1. 运行命令：`java -jar Ai-SAST-tool.jar`
 
 ## 使用步骤
 
